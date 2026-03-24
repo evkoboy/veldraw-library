@@ -12,5 +12,19 @@
     "thumb": "https://raw.githubusercontent.com/evkoboy/veldraw-library/main/images/thumbs/dog_with_party_hat_color.png",
     "full": "https://raw.githubusercontent.com/evkoboy/veldraw-library/main/images/full/dog_with_party_hat_color.png",
     "alpha": 0.40
+  },
+  {
+    "id": "cheerful_puppies_bw",
+    "title": "Cheerful Puppies (drawing)",
+    "thumb": "https://raw.githubusercontent.com/evkoboy/veldraw-library/main/images/thumbs/cheerful_puppies_bw.png",
+    "full": "https://raw.githubusercontent.com/evkoboy/veldraw-library/main/images/full/cheerful_puppies_bw.png",
+    "alpha": 0.55
+  },
+  {
+    "id": "cheerful_puppies_color",
+    "title": "Cheerful Puppies (coloring)",
+    "thumb": "https://raw.githubusercontent.com/evkoboy/veldraw-library/main/images/thumbs/cheerful_puppies_color.png",
+    "full": "https://raw.githubusercontent.com/evkoboy/veldraw-library/main/images/full/cheerful_puppies_color.png",
+    "alpha": 0.40
   }
 ]
