@@ -1,0 +1,16 @@
+[
+  {
+    "id": "dog_with_party_hat_bw",
+    "title": "Dog with Party Hat (drawing)",
+    "thumb": "https://raw.githubusercontent.com/evkoboy/veldraw-library/main/images/thumbs/dog_with_party_hat_bw.png",
+    "full": "https://raw.githubusercontent.com/evkoboy/veldraw-library/main/images/full/dog_with_party_hat_bw.png",
+    "alpha": 0.55
+  },
+  {
+    "id": "dog_with_party_hat_color",
+    "title": "Dog with Party Hat (coloring)",
+    "thumb": "https://raw.githubusercontent.com/evkoboy/veldraw-library/main/images/thumbs/dog_with_party_hat_color.png",
+    "full": "https://raw.githubusercontent.com/evkoboy/veldraw-library/main/images/full/dog_with_party_hat_color.png",
+    "alpha": 0.40
+  }
+]
